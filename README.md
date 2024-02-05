@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**VitorAkira-me/VitorAkira-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Vitor Akira
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-akira-7a3a55199/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Vitor Akira GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAkira-me&show_icons=true&theme=dark)
+
+### Tecnologias que uso no meu dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img align="center" alt="Azure" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="Azure" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
+    <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+</div><br/>
+
+Apaixonado por tecnologia e pela área de dados ❤️🧑‍💻.
