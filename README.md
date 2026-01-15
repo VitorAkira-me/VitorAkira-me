@@ -1,35 +1,30 @@
-<h1 align="center">Hi, I'm Vitor Akira 👋</h1>
+<h1 align="center">Oi, eu sou o Vitor Akira 👋</h1>
 
 <p align="center">
-  <b>Data Engineer</b> • Azure/Databricks • PySpark • Python • SQL • São Paulo, BR
+  <b>Engenheiro de Dados</b> • Azure/Databricks • PySpark • Python • SQL • São Paulo, BR
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitor-akira-7a3a55199/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/VitorAkira-me">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 About me
-I’m a **Data Engineer (since 2021)** focused on building reliable data pipelines and analytics foundations.  
-Right now, I’m building a **public portfolio (Data Engineering + ML Engineering)** with clear documentation and consistent commits.
+## 🚀 Sobre mim
+Sou **Engenheiro de Dados (desde 2021)**, com foco em construir **pipelines confiáveis**, qualidade de dados e bases sólidas de analytics.  
+No momento, estou montando um **portfólio público (Data Engineering + ML Engineering)** com documentação clara e consistência de commits.
 
-### ⭐ Featured projects
-- **estudos-python-de-ml** → studies + exercises in Python for Data/ML  
-  https://github.com/VitorAkira-me/estudos-python-de-ml
-- **challenge-sprint** → sprint challenges / hands-on tasks  
-  https://github.com/VitorAkira-me/challenge-sprint
-- **ProjetoEstacionamento-2SIS-2021** → academic project (foundation + logic)  
-  https://github.com/VitorAkira-me/ProjetoEstacionamento-2SIS-2021
+## ⭐ Projetos em destaque
+- **[estudos-python-de-ml](https://github.com/VitorAkira-me/estudos-python-de-ml)** — caderno de estudos + exercícios (Python para Dados/ML)
+- **[challenge-sprint](https://github.com/VitorAkira-me/challenge-sprint)** — desafios práticos / sprints de aprendizado
+- **[ProjetoEstacionamento-2SIS-2021](https://github.com/VitorAkira-me/ProjetoEstacionamento-2SIS-2021)** — projeto acadêmico (fundamentos + lógica)
 
----
-
-### 🧰 Tech stack
+## 🧰 Tech stack
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -39,7 +34,5 @@ Right now, I’m building a **public portfolio (Data Engineering + ML Engineerin
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 📫 Contact
-LinkedIn: https://www.linkedin.com/in/vitor-akira-7a3a55199/
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/vitor-akira-7a3a55199/
