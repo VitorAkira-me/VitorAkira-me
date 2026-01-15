@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitor-akira-7a3a55199/">
+  <a href="https://www.linkedin.com/in/vitor-akira">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/VitorAkira-me">
@@ -16,8 +16,11 @@
 ---
 
 ## 🚀 Sobre mim
-Sou **Engenheiro de Dados (desde 2021)**, com foco em construir **pipelines confiáveis**, qualidade de dados e bases sólidas de analytics.  
-No momento, estou montando um **portfólio público (Data Engineering + ML Engineering)** com documentação clara e consistência de commits.
+## 🚀 Sobre mim
+Engenheiro de Dados desde 2021, com experiência em migração **on-premises → Azure** e construção de pipelines em produção com **Azure Databricks (PySpark)**, **Data Factory**, **Python** e **SQL**. Atuo com qualidade e governança de dados, garantindo rastreabilidade, confiabilidade e operação (observabilidade, falhas/reprocessamento e SLAs) para consumo analítico e relatórios corporativos.
+
+Direcionamento para **MLOps/LLMOps (fundamentos)**, com início da **Pós Tech em Machine Learning Engineering (FIAP + Alura)** em **mar/2026**.
+
 
 ## ⭐ Projetos em destaque
 - **[estudos-python-de-ml](https://github.com/VitorAkira-me/estudos-python-de-ml)** — caderno de estudos + exercícios (Python para Dados/ML)
@@ -35,4 +38,4 @@ No momento, estou montando um **portfólio público (Data Engineering + ML Engin
 </p>
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/vitor-akira-7a3a55199/
+- LinkedIn: https://www.linkedin.com/in/vitor-akira/
