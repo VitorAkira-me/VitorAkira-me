@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Vitor Akira 👋</h1>
+<h1 align="center">Eae, eu sou o Vitor Akira 👋</h1>
 
 <p align="center">
   <b>Engenheiro de Dados</b> • Azure/Databricks • PySpark • Python • SQL • Machine Learning (em evolução) • São Paulo, BR
