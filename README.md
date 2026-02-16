@@ -17,16 +17,16 @@
 ---
 
 ## 🚀 Sobre mim
-Engenheiro de Dados desde 2021, com experiência em migração **on-premises → Azure** e construção de pipelines em produção com **Azure Databricks (PySpark)**, **Data Factory**, **Python** e **SQL**. Atuo com qualidade e governança de dados, garantindo rastreabilidade, confiabilidade e operação (observabilidade, falhas/reprocessamento e SLAs) para consumo analítico e relatórios corporativos.
+Engenheiro de Dados desde 2021, com experiência em migração **on-premises -> Azure** e construção de pipelines em produção com **Azure Databricks (PySpark)**, **Data Factory**, **Python** e **SQL**. Atuo com qualidade e governança de dados, garantindo rastreabilidade, confiabilidade e operação (observabilidade, falhas/reprocessamento e SLAs) para consumo analítico e relatórios corporativos.
 
 Também estou evoluindo para **Machine Learning Engineering**, fortalecendo fundamentos de **modelagem, pipelines de features e deployment/monitoramento** (MLOps/LLMOps – fundamentos).
 
 Direcionamento para **MLOps/LLMOps (fundamentos)**, com início da **Pós Tech em Machine Learning Engineering (FIAP + Alura)** em **mar/2026**.
 
 ## ⭐ Projetos em destaque
-- **[estudos-python-de-ml](https://github.com/VitorAkira-me/estudos-python-de-ml)** — caderno de estudos + exercícios (Python para Dados/ML)
-- **[challenge-sprint](https://github.com/VitorAkira-me/challenge-sprint)** — desafios práticos / sprints de aprendizado
-- **[ProjetoEstacionamento-2SIS-2021](https://github.com/VitorAkira-me/ProjetoEstacionamento-2SIS-2021)** — projeto acadêmico (fundamentos + lógica)
+- **[estudos-python-de-ml](https://github.com/VitorAkira-me/estudos-python-de-ml)** - caderno de estudos + exercícios (Python para Dados/ML)
+- **[challenge-sprint](https://github.com/VitorAkira-me/challenge-sprint)** - desafios práticos / sprints de aprendizado
+- **[ProjetoEstacionamento-2SIS-2021](https://github.com/VitorAkira-me/ProjetoEstacionamento-2SIS-2021)** - projeto acadêmico (fundamentos + lógica)
 
 ## 🧰 Tech stack
 <p>
