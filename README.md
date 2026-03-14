@@ -24,9 +24,11 @@ Também estou evoluindo para **Machine Learning Engineering**, fortalecendo fund
 Direcionamento para **MLOps/LLMOps (fundamentos)**, com início da **Pós Tech em Machine Learning Engineering (FIAP + Alura)** em **mar/2026**.
 
 ## ⭐ Projetos em destaque
+- **[Projeto-ML-Churn-Prediction-PosTech-FIAP](https://github.com/VitorAkira-me/ml-churn-prediction)** - projeto acadêmico da Pos-tech
 - **[estudos-python-de-ml](https://github.com/VitorAkira-me/estudos-python-de-ml)** - caderno de estudos + exercícios (Python para Dados/ML)
 - **[challenge-sprint](https://github.com/VitorAkira-me/challenge-sprint)** - desafios práticos / sprints de aprendizado
 - **[ProjetoEstacionamento-2SIS-2021](https://github.com/VitorAkira-me/ProjetoEstacionamento-2SIS-2021)** - projeto acadêmico (fundamentos + lógica)
+
 
 ## 🧰 Tech stack
 <p>
