@@ -1,42 +1,34 @@
-<h1 align="center">Sou o Vitor Akira 👋</h1>
+# 👋 Vitor Akira
 
-<p align="center">
-  <b>Engenheiro de Dados</b> • Azure/Databricks • PySpark • Python • SQL • Machine Learning (em evolução) • São Paulo, BR
-</p>
+Data Engineer com experiência em pipelines de dados em Azure (Databricks, PySpark) e foco em qualidade, governança e arquitetura Medallion.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vitor-akira-7a3a55199/">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/VitorAkira-me">
-    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+## 🚀 Sobre
+
+Atuo na construção de pipelines ETL/ELT, modelagem de dados e organização de ambientes analíticos para suporte a decisões de negócio.
+
+Tenho experiência com:
+- Python, SQL e PySpark
+- Azure Databricks e Data Pipelines
+- Arquitetura Medallion (Bronze, Silver, Gold)
+- Data Quality, Observability e Governança
+
+Atualmente evoluindo para Machine Learning Engineering, com foco em:
+- Feature Engineering
+- Modelagem e avaliação
+- MLOps (fundamentos)
 
 ---
 
-## 🚀 Sobre mim
-Engenheiro de Dados desde 2021, com experiência em migração **on-premises -> Azure** e construção de pipelines em produção com **Azure Databricks (PySpark)**, **Data Factory**, **Python** e **SQL**. Atuo com qualidade e governança de dados, garantindo rastreabilidade, confiabilidade e operação (observabilidade, falhas/reprocessamento e SLAs) para consumo analítico e relatórios corporativos.
+## 📌 Projetos em destaque
 
-Também estou evoluindo para **Machine Learning Engineering**, fortalecendo fundamentos de **modelagem, pipelines de features e deployment/monitoramento** (MLOps/LLMOps – fundamentos).
+### 🔹 Churn Prediction (ML)
+Pipeline completo de Machine Learning com EDA, Feature Engineering, modelagem (Random Forest, MLP) e tracking com MLflow.
 
-Direcionamento para **MLOps/LLMOps (fundamentos)**, com início da **Pós Tech em Machine Learning Engineering (FIAP + Alura)** em **mar/2026**.
+### 🔹 Data Engineering Studies
+Repositório com estudos práticos em ETL, pipelines, organização de dados e boas práticas.
 
-## ⭐ Projetos em destaque
-- **[Projeto-ML-Churn-Prediction-PosTech-FIAP](https://github.com/VitorAkira-me/ml-churn-prediction)** - projeto acadêmico da Pos-tech
-- **[estudos-python-de-ml](https://github.com/VitorAkira-me/estudos-python-de-ml)** - caderno de estudos + exercícios (Python para Dados/ML)
-- **[challenge-sprint](https://github.com/VitorAkira-me/challenge-sprint)** - desafios práticos / sprints de aprendizado
-- **[ProjetoEstacionamento-2SIS-2021](https://github.com/VitorAkira-me/ProjetoEstacionamento-2SIS-2021)** - projeto acadêmico (fundamentos + lógica)
+---
 
+## 🛠️ Tech Stack
 
-## 🧰 Tech stack
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-6F42C1?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+Python • SQL • PySpark • Azure Databricks • MLflow • Git
