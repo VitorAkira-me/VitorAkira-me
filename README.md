@@ -1,34 +1,71 @@
-# 👋 Vitor Akira
+<h1 align="center">👋 Vitor Akira</h1>
 
-Data Engineer com experiência em pipelines de dados em Azure (Databricks, PySpark) e foco em qualidade, governança e arquitetura Medallion.
+<p align="center">
+Data Engineer • Python • SQL • PySpark • Azure Databricks  
+<br>
+Em evolução para Machine Learning Engineering
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vitor-akira/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
+</a>
+<a href="https://github.com/VitorAkira-me">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github">
+</a>
+</p>
+
+---
 
 ## 🚀 Sobre
 
-Atuo na construção de pipelines ETL/ELT, modelagem de dados e organização de ambientes analíticos para suporte a decisões de negócio.
+Engenheiro de Dados com experiência em construção de pipelines ETL/ELT, modelagem de dados e organização de ambientes analíticos em Azure.
 
-Tenho experiência com:
-- Python, SQL e PySpark
-- Azure Databricks e Data Pipelines
+Foco em:
+- Qualidade e governança de dados
 - Arquitetura Medallion (Bronze, Silver, Gold)
-- Data Quality, Observability e Governança
+- Processamento distribuído com PySpark
 
-Atualmente evoluindo para Machine Learning Engineering, com foco em:
-- Feature Engineering
-- Modelagem e avaliação
-- MLOps (fundamentos)
+Atualmente evoluindo para Machine Learning Engineering (MLOps e pipelines de ML).
 
 ---
 
 ## 📌 Projetos em destaque
 
 ### 🔹 Churn Prediction (ML)
-Pipeline completo de Machine Learning com EDA, Feature Engineering, modelagem (Random Forest, MLP) e tracking com MLflow.
+Pipeline completo de Machine Learning:
+- EDA + Feature Engineering  
+- Modelos: Random Forest e MLP  
+- Tracking com MLflow  
+
+👉 [Ver projeto](https://github.com/fiap-postech-ml-engineering/ml-churn-prediction)
+
+---
 
 ### 🔹 Data Engineering Studies
-Repositório com estudos práticos em ETL, pipelines, organização de dados e boas práticas.
+Repositório com estudos práticos:
+- ETL e pipelines  
+- Organização de dados  
+- Boas práticas  
+
+👉 [Ver repositório](https://github.com/VitorAkira-me/estudos-python-de-ml)
 
 ---
 
 ## 🛠️ Tech Stack
 
-Python • SQL • PySpark • Azure Databricks • MLflow • Git
+<p>
+<img src="https://img.shields.io/badge/Python-blue">
+<img src="https://img.shields.io/badge/SQL-orange">
+<img src="https://img.shields.io/badge/PySpark-red">
+<img src="https://img.shields.io/badge/Databricks-orange">
+<img src="https://img.shields.io/badge/Azure-blue">
+<img src="https://img.shields.io/badge/MLflow-lightgrey">
+<img src="https://img.shields.io/badge/Git-black">
+</p>
+
+---
+
+## 📈 Objetivo
+
+Construir soluções que conectem Engenharia de Dados com Machine Learning, evoluindo para sistemas produtivos com dados confiáveis e modelos escaláveis.
