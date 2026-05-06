@@ -1,9 +1,9 @@
-<h1 align="center">👋 Vitor Akira</h1>
+<h1 align="center">👋 Olá, eu sou o Vitor Akira</h1>
 
 <p align="center">
-Data Engineer • Python • SQL • PySpark • Azure Databricks  
+Data Engineer • Python • SQL • PySpark • Azure  
 <br>
-Em evolução para Machine Learning Engineering
+Em transição para Machine Learning Engineering
 </p>
 
 <p align="center">
@@ -17,42 +17,61 @@ Em evolução para Machine Learning Engineering
 
 ---
 
-## 🚀 Sobre
+## 🚀 Sobre mim
 
-Engenheiro de Dados com experiência em construção de pipelines ETL/ELT, modelagem de dados e organização de ambientes analíticos em Azure.
+Atuo na área de dados com experiência em Engenharia de Dados, ETL/ELT, qualidade de dados e construção de ambientes analíticos em Azure.
 
-Foco em:
-- Qualidade e governança de dados
-- Arquitetura Medallion (Bronze, Silver, Gold)
-- Processamento distribuído com PySpark
+Durante minha trajetória, participei de projetos envolvendo:
+- Construção e manutenção de pipelines de dados
+- Processos de ingestão, transformação e validação
+- Arquitetura Medallion (Bronze, Silver e Gold)
+- Modelagem de dados para BI e analytics
+- Ambientes com Databricks, SQL e Azure
 
-Atualmente evoluindo para Machine Learning Engineering (MLOps e pipelines de ML).
+Atualmente estou aprofundando meus estudos em Machine Learning Engineering, com foco em:
+- Pipelines de Machine Learning
+- MLOps
+- APIs de inferência
+- Deploy de modelos
+- MLflow e monitoramento
 
 ---
 
 ## 📌 Projetos em destaque
 
-### 🔹 Churn Prediction (ML)
-Pipeline completo de Machine Learning:
-- EDA + Feature Engineering  
-- Modelos: Random Forest e MLP  
-- Tracking com MLflow  
+### 🔹 Churn Prediction (Machine Learning)
+
+Projeto end-to-end de Machine Learning desenvolvido na FIAP Pós Tech.
+
+Principais pontos:
+- EDA e tratamento de dados
+- Feature Engineering
+- Random Forest e MLP (PyTorch)
+- Tracking de experimentos com MLflow
+- API de inferência com FastAPI
+- Estrutura voltada para MLOps
 
 👉 [Ver projeto](https://github.com/fiap-postech-ml-engineering/ml-churn-prediction)
 
 ---
 
 ### 🔹 Data Engineering Studies
-Repositório com estudos práticos:
-- ETL e pipelines  
-- Organização de dados  
-- Boas práticas  
+
+Repositório com estudos práticos e exercícios voltados para Engenharia de Dados e Machine Learning.
+
+Conteúdos:
+- Python para dados
+- SQL e transformação de dados
+- ETL e pipelines
+- Pandas e processamento
+- Estruturação de projetos
+- Estudos para Data Engineering e ML Engineering
 
 👉 [Ver repositório](https://github.com/VitorAkira-me/estudos-python-de-ml)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <p>
 <img src="https://img.shields.io/badge/Python-blue">
@@ -60,7 +79,11 @@ Repositório com estudos práticos:
 <img src="https://img.shields.io/badge/PySpark-red">
 <img src="https://img.shields.io/badge/Databricks-orange">
 <img src="https://img.shields.io/badge/Azure-blue">
+<img src="https://img.shields.io/badge/PostgreSQL-blue">
+<img src="https://img.shields.io/badge/PowerBI-yellow">
 <img src="https://img.shields.io/badge/MLflow-lightgrey">
+<img src="https://img.shields.io/badge/FastAPI-green">
+<img src="https://img.shields.io/badge/Docker-blue">
 <img src="https://img.shields.io/badge/Git-black">
 </p>
 
@@ -68,4 +91,4 @@ Repositório com estudos práticos:
 
 ## 📈 Objetivo
 
-Construir soluções que conectem Engenharia de Dados com Machine Learning, evoluindo para sistemas produtivos com dados confiáveis e modelos escaláveis.
+Construir soluções que conectem Engenharia de Dados, Analytics e Machine Learning, criando pipelines e sistemas mais confiáveis, organizados e escaláveis.
